@@ -4,7 +4,7 @@
 # GNU Radio Python Flow Graph
 # Title: Exploring the Link Budget
 # Author: Bob Iannucci
-# Generated: Wed Oct  2 20:10:18 2019
+# Generated: Mon Oct  7 12:01:05 2019
 ##################################################
 
 if __name__ == '__main__':
@@ -65,7 +65,7 @@ class top_block(gr.top_block, Qt.QWidget):
         # Variables
         ##################################################
         self.tx_power = tx_power = 20
-        self.tx_message = tx_message = "12345678901234567890123456789012345678901234567890"
+        self.tx_message = tx_message = "test"
         self.spreading_factor = spreading_factor = 7
         self.signal_power = signal_power = 0
         self.samp_rate = samp_rate = 250000
