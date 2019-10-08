@@ -4,7 +4,7 @@
 # GNU Radio Python Flow Graph
 # Title: WDA Channel Simulator v2
 # Author: Cef Ramirez
-# Generated: Mon Oct  7 11:02:49 2019
+# Generated: Tue Oct  8 08:58:48 2019
 ##################################################
 
 if __name__ == '__main__':
